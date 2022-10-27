@@ -14,14 +14,28 @@
         "total": 7
     },
     {
+        "id": 3,
+        "name": "PHP",
+        "image": "https://academy.moralis.io/wp-content/uploads/2021/06/voPXrfBIQEG3ZAyCXHIm_do-java-programming-with-design-in-24-hours-680x362-1.jpghttps://miro.medium.com/proxy/0*dYhf8eD1sNuG49Wf.png",
+        "description": "In this course you're gonna learn php. Building a web consists of several components including HTML (HyperText Markup Language) as a web language whose processing is processed on the client-side. Then there is also CSS ( Cascading Style Sheets ) which is the same as the processing HTML from the client-side. While PHP data processing is on the server side (server side). ",
+        "total": 5
+    },
+    {
         "id": 4,
+        "name": "Swift",
+        "image": "https://miro.medium.com/max/750/1*OgeU8HPo8TFF1cZQ-4XjJw.jpeg",
+        "description": "In this course you're gonna learn Swift. Swift is the modern programming language that was designed to overcome the several challenges of the versatile Apple programming language Objective C. It was introduced on 2 June 2014 by Apple Inc.",
+        "total": 8
+    },
+    {
+        "id": 5,
         "name": "Java",
         "image": "https://academy.moralis.io/wp-content/uploads/2021/06/voPXrfBIQEG3ZAyCXHIm_do-java-programming-with-design-in-24-hours-680x362-1.jpg",
         "description": "In this course you're gonna learn Java. The first language we are going to take a closer look at is the classic Java. This is one of the most popular programming languages in general, and they have over nine million developers. Java launched in 1995, which means they have 25 years of experience when it comes to programming. ",
         "total": 8
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "C",
         "image": "https://impreza.host/wp-content/uploads/2017/07/c-programming-language.jpg",
         "description": "In this course you're gonna learn C. C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs.",
