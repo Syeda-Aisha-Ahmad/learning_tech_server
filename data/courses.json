@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Python",
+        "image": "https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/Features-of-Python-1.jpg",
+        "description": "In this course you're gonna learn Python. Python is one of the most dynamic and versatile programming languages available in the industry today. Since its inception in the 1990s, Python has become hugely popular and even today there are thousands who are learning this Object-Oriented Programming language.",
+        "total": 5
+    },
+    {
+        "id": 2,
+        "name": "C++",
+        "image": "https://cdn.educba.com/academy/wp-content/uploads/2019/11/features-of-c.png",
+        "description": "In this course you're gonna learn C++. C++ is a programming language developed at bell labs by Bjarne Stroustrup in 1979. C++ is a combination of low-level and high-level language features. That’s why it’s an intermediate-level language.",
+        "total": 7
+    },
+    {
+        "id": 4,
+        "name": "Java",
+        "image": "https://academy.moralis.io/wp-content/uploads/2021/06/voPXrfBIQEG3ZAyCXHIm_do-java-programming-with-design-in-24-hours-680x362-1.jpg",
+        "description": "In this course you're gonna learn Java. The first language we are going to take a closer look at is the classic Java. This is one of the most popular programming languages in general, and they have over nine million developers. Java launched in 1995, which means they have 25 years of experience when it comes to programming. ",
+        "total": 8
+    },
+    {
+        "id": 5,
+        "name": "C",
+        "image": "https://impreza.host/wp-content/uploads/2017/07/c-programming-language.jpg",
+        "description": "In this course you're gonna learn C. C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs.",
+        "total": 10
+    }
+]
