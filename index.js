@@ -17,6 +17,11 @@ app.get('/details/:id', (req, res) => {
     const details = allCourses.find(detail => detail.id === allDetails);
     res.send(details)
 })
+app.get('/checkhout/:id', (req, res) => {
+    const allDetails = parseInt(req.params.id);
+    const details = allCourses.find(detail => detail.id === allDetails);
+    res.send(details)
+})
 app.listen(port, () => {
     console.log('anything', port)
 })
